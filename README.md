@@ -24,3 +24,4 @@ ODE systems, demonstrated on two physical systems:
 - McCoy, R.L. — Modern Exterior Ballistics
 - Cook, J.D. — Symplectic Euler method
 - Cucchi, L. — External Ballistics: Flight Dynamics Simulation
+- Darakchiev, Y. — Math Concepts for Developers, SoftUni, 2026
