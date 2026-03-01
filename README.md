@@ -3,7 +3,7 @@ A numerically stable trajectory engine for nonlinear ODE systems demonstrated on
 
 **Author:** Vanya Videva  
 **Course:** Math Concepts for Developers        
-**Date:** March 2025
+**Date:** March 2026
 
 ## About
 A Python implementation comparing numerical integrators 
